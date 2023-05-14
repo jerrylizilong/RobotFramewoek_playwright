@@ -1,0 +1,282 @@
+{"level":30,"time":"2023-05-14T09:33:34.749Z","pid":78013,"hostname":"lizilongdeair","msg":"Listening on 49320"}
+{"level":30,"time":"2023-05-14T09:33:34.791Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:34.792Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:34.793Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:34.793Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:34.795Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-05-14T09:33:35.455Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-05-14T09:33:35.458Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-05-14T09:33:35.458Z","pid":78013,"hostname":"lizilongdeair","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-05-14T09:33:35.467Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active context"}
+{"level":30,"time":"2023-05-14T09:33:35.963Z","pid":78013,"hostname":"lizilongdeair","msg":"Video path: undefined"}
+{"level":30,"time":"2023-05-14T09:33:35.963Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active page"}
+{"level":30,"time":"2023-05-14T09:33:36.786Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method newPage"}
+{"level":30,"time":"2023-05-14T09:33:36.790Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:36.791Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:36.821Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:36.822Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:36.825Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-05-14T09:33:37.021Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-05-14T09:33:37.024Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.024Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.029Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.029Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.043Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.043Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.048Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.048Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.062Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.062Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.066Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.066Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.080Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.080Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.084Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.084Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.097Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.097Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.102Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.102Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.115Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.115Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.119Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.119Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.132Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.132Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.136Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.136Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.150Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.150Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.153Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.153Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.165Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.165Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.169Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.169Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.182Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.182Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.186Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.186Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.198Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.198Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.202Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.202Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.215Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.215Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.220Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.220Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.232Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.232Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.236Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.236Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.249Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.249Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.253Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.253Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.267Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.267Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.271Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.271Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.284Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.284Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.288Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.288Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.302Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.302Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.306Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.306Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.320Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.320Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.324Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.324Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.335Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.336Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.340Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.340Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.354Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.354Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.358Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.358Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.371Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.371Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.376Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.376Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.389Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.389Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.393Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.393Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.407Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.407Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.411Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.411Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.425Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.425Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.429Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.429Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.443Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.443Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.448Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.448Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.462Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.462Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.466Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.466Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.480Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.480Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.485Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.485Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.499Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.499Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.503Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.503Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.517Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.517Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.532Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.532Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.546Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.546Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.550Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.551Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.564Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.564Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.568Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.568Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.581Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.582Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.586Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.586Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.600Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.600Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.604Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.604Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.618Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.618Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.622Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.622Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.633Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.633Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.637Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.637Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.651Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.651Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.654Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.654Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.667Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.667Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.671Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.671Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.684Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.684Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.688Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.688Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.699Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.699Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.703Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.703Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.716Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.716Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.720Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.720Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.732Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.732Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.736Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.736Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.750Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.750Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.753Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.753Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.766Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.766Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.770Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.770Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.782Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.782Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.785Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.785Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.799Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.799Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.802Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.802Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.815Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.815Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.819Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.819Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.832Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.832Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.835Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.835Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.849Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.849Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.853Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.853Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.866Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.866Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.869Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.869Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.881Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.881Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.885Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.885Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.898Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.898Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.902Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.902Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.914Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.914Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.918Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.918Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.931Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.931Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.935Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.935Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.948Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.949Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.952Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.952Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.965Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.965Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.968Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.968Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.982Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.982Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:37.985Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:37.985Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.999Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:37.999Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:38.003Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:38.003Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:38.014Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:38.014Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:38.017Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:38.017Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:38.029Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:38.030Z","pid":78013,"hostname":"lizilongdeair","msg":"Strict mode is enabled, find Locator with title in page."}
+{"level":30,"time":"2023-05-14T09:33:38.033Z","pid":78013,"hostname":"lizilongdeair","msg":"Retrieved text for element title containing 百度一下，你就知道"}
+{"level":30,"time":"2023-05-14T09:33:38.033Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getText"}
+{"level":30,"time":"2023-05-14T09:33:38.034Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-05-14T09:33:38.103Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-05-14T09:33:38.111Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.112Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.113Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.113Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.114Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active context"}
+{"level":30,"time":"2023-05-14T09:33:38.114Z","pid":78013,"hostname":"lizilongdeair","msg":"Changing current active page"}
+{"level":30,"time":"2023-05-14T09:33:38.114Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active page"}
+{"level":30,"time":"2023-05-14T09:33:38.118Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.119Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.120Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-05-14T09:33:38.120Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-05-14T09:33:38.120Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-05-14T09:33:38.120Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-05-14T09:33:38.122Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.122Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.123Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active context"}
+{"level":30,"time":"2023-05-14T09:33:38.123Z","pid":78013,"hostname":"lizilongdeair","msg":"Changing current active page"}
+{"level":30,"time":"2023-05-14T09:33:38.123Z","pid":78013,"hostname":"lizilongdeair","msg":"Changed active page"}
+{"level":30,"time":"2023-05-14T09:33:38.128Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-05-14T09:33:38.133Z","pid":78013,"hostname":"lizilongdeair","msg":"Removed page=383bdb13-0638-4124-9e6e-3d5cabb12f84 from context=9560156c-1c45-48b6-a416-6ed9d25511ea page stack"}
+{"level":30,"time":"2023-05-14T09:33:38.162Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-05-14T09:33:38.165Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.165Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-05-14T09:33:38.176Z","pid":78013,"hostname":"lizilongdeair","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-05-14T09:33:38.218Z","pid":78013,"hostname":"lizilongdeair","msg":"End of node method closeAllBrowsers"}
